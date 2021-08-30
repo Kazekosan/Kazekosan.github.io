@@ -28,13 +28,32 @@
       </tags>
   </entry>
   <entry>
+    <title>测试用简单自我介绍文本</title>
+    <url>/2021/08/30/22-41-46/</url>
+    <content><![CDATA[<h2 id="整个置顶吧">整个置顶吧。</h2>
+<p>不知道咋自我介绍之类的，就简单说一下。 B站名字是糖苏の風，你可以叫我糖苏或者风子，糖苏这个id从初中用到现在，基本我现实的朋友都会叫我糖苏。风子是后来打r6用的名字（r6没有中文id就随便取了个kazeko）我的常用游戏id结合在一起就是糖苏の風，糖苏的风子，含义就是我就是我就这样。</p>
+<p>没有啥特别优秀的东西，更新的视频基本上是和朋友一起玩游戏的片段（说四川话是现实朋友，普通话是网友）。偶尔会更新单机游戏的实况之类的（要遇得到好玩的和口袋里的钱够买，毕竟在校大学牲）。老光环玩家。</p>
+<p>没啥特别的爱好，平时就听听歌，打打game，学点有用的东西。是运动废柴（做了个小手术后就基本不想运动了体力差劲）。是小鹿包，鹿乃单推人（5年以上）。steam id：一般路过小鹿包</p>
+<p>偶尔会直播打游戏之类的，基本是联机游戏和朋友玩，但还是会有单机游戏直播（可能很少）。直播一般会挂个皮套（免费可商用那种，咱也没钱约）或着風子的头像（好孩子不要去搜这个头像的出处。）游戏技术很菜，闲的无聊可以来看我下饭。</p>
+<p>基本就这些吧？？？ 感谢你的关注（能关注我这种没啥技术力的人，真的很感谢） end~~~</p>
+]]></content>
+      <categories>
+        <category>测试1</category>
+        <category>测试2</category>
+      </categories>
+      <tags>
+        <tag>测试1</tag>
+        <tag>测试2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>资源文件夹</title>
     <url>/2021/08/22/23-10-47/</url>
     <content><![CDATA[<h2 id="本文用于测试资源文件夹功能是否正常">本文用于测试资源文件夹功能是否正常</h2>
 <img src="/2021/08/22/23-10-47/1.jpg" class="">
 <span id="more"></span>
 <h3 id="相对引用">相对引用</h3>
-<p><img src="1.jpg" alt="test" /> <img src="/backgrounds/3.jpg" alt="test" /> <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.js"></script><div id="mmedia-HnpoFmoDQWznQbnS"></div><script> var HnpoFmoDQWznQbnS_options = JSON.parse('{\"lrcType\":3,\"audio\":[{\"name\":\"夏天的风\",\"artist\":\"鹿乃\",\"url\":\"鹿乃 (かの) - 夏天的风.mp3\",\"cover\":\"1.jpg\",\"lrc\":\"鹿乃 (かの) - 夏天的风.lrc\"}]}'); HnpoFmoDQWznQbnS_options.container = document.getElementById("mmedia-HnpoFmoDQWznQbnS"); const ap_HnpoFmoDQWznQbnS = new APlayer(HnpoFmoDQWznQbnS_options); </script></p>
+<p><img src="1.jpg" alt="test" /> <img src="/backgrounds/3.jpg" alt="test" /> <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.js"></script><div id="mmedia-yXCfUgRwMWxxNpbP"></div><script> var yXCfUgRwMWxxNpbP_options = JSON.parse('{\"lrcType\":3,\"audio\":[{\"name\":\"夏天的风\",\"artist\":\"鹿乃\",\"url\":\"鹿乃 (かの) - 夏天的风.mp3\",\"cover\":\"1.jpg\",\"lrc\":\"鹿乃 (かの) - 夏天的风.lrc\"}]}'); yXCfUgRwMWxxNpbP_options.container = document.getElementById("mmedia-yXCfUgRwMWxxNpbP"); const ap_yXCfUgRwMWxxNpbP = new APlayer(yXCfUgRwMWxxNpbP_options); </script></p>
 ]]></content>
   </entry>
   <entry>
@@ -46,16 +65,16 @@
 <p><img src="https://cdn.jsdelivr.net/gh/kanomahoro/images@main/1.jpg"></p>
 <h2 id="音乐播放测试">音乐播放测试</h2>
 <h2 id="onedrive">onedrive</h2>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.js"></script><div id="mmedia-xjjpAqEOKTcHksME"></div><script> var xjjpAqEOKTcHksME_options = JSON.parse('{\"lrcType\":3,\"audio\":[{\"name\":\"夏天的风\",\"artist\":\"鹿乃(かの)\",\"url\":\"https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaWZDekl5bUhxQVhpekJnRDR2UFVtNDNheTktP2U9dEZGMTVu.mp3\",\"cover\":\"https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaWZDekl5bUhxQVhpeTR5Vnl1VFQxNkVOQnB1P2U9OHdSenRm.jpg\",\"lrc\":\"https://cdn.jsdelivr.net/gh/kanomahoro/images@main/1.lrc\"}]}'); xjjpAqEOKTcHksME_options.container = document.getElementById("mmedia-xjjpAqEOKTcHksME"); const ap_xjjpAqEOKTcHksME = new APlayer(xjjpAqEOKTcHksME_options); </script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.js"></script><div id="mmedia-uRsQdbaVymSLoDum"></div><script> var uRsQdbaVymSLoDum_options = JSON.parse('{\"lrcType\":3,\"audio\":[{\"name\":\"夏天的风\",\"artist\":\"鹿乃(かの)\",\"url\":\"https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaWZDekl5bUhxQVhpekJnRDR2UFVtNDNheTktP2U9dEZGMTVu.mp3\",\"cover\":\"https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaWZDekl5bUhxQVhpeTR5Vnl1VFQxNkVOQnB1P2U9OHdSenRm.jpg\",\"lrc\":\"https://cdn.jsdelivr.net/gh/kanomahoro/images@main/1.lrc\"}]}'); uRsQdbaVymSLoDum_options.container = document.getElementById("mmedia-uRsQdbaVymSLoDum"); const ap_uRsQdbaVymSLoDum = new APlayer(uRsQdbaVymSLoDum_options); </script>
 <h2 id="qq音乐">QQ音乐</h2>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.js"></script><script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script><meting-js metin="meting" auto="https://y.qq.com/n/yqq/song/003quxgz0qhoCZ.html" autopla="autoplay" ></meting-js>
 <h2 id="视频播放测试">视频播放测试</h2>
 <h2 id="onedrive-1">onedrive</h2>
-<script src="https://cdn.jsdelivr.net/npm/dplayer@1/dist/DPlayer.min.js"></script><div id="mmedia-YeYfvElhxMyqhium"></div><script> var YeYfvElhxMyqhium_options = JSON.parse('{\"video\":{\"url\":\"https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBaWZDekl5bUhxQVhpekc0d1JBUXVWdTFMV0h1P2U9WDVmUHlm.mp4\",\"pic\":\"https://cdn.jsdelivr.net/gh/kanomahoro/images@main/pic.png\"}}'); YeYfvElhxMyqhium_options.container = document.getElementById("mmedia-YeYfvElhxMyqhium"); const dp_YeYfvElhxMyqhium = new DPlayer(YeYfvElhxMyqhium_options); </script>
+<script src="https://cdn.jsdelivr.net/npm/dplayer@1/dist/DPlayer.min.js"></script><div id="mmedia-QcscdfaGEfhFwLEk"></div><script> var QcscdfaGEfhFwLEk_options = JSON.parse('{\"video\":{\"url\":\"https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBaWZDekl5bUhxQVhpekc0d1JBUXVWdTFMV0h1P2U9WDVmUHlm.mp4\",\"pic\":\"https://cdn.jsdelivr.net/gh/kanomahoro/images@main/pic.png\"}}'); QcscdfaGEfhFwLEk_options.container = document.getElementById("mmedia-QcscdfaGEfhFwLEk"); const dp_QcscdfaGEfhFwLEk = new DPlayer(QcscdfaGEfhFwLEk_options); </script>
 <h3 id="b站">B站</h3>
-<style>.bbplayer{width: 100%; max-width: 850px; margin: auto}</style><div class="bbplayer"><iframe class="bbplayer" id="mmedia-uwQJraYRqOYWaofM" src="https://player.bilibili.com/player.html?bvid=BV15f4y167sa&page=1&high_quality=1&danmaku=true" allowfullscreen="allowfullscreen" scrolling="no" border="0" frameborder="0" framespacing="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups"></iframe></div><script> document.getElementById("mmedia-uwQJraYRqOYWaofM").style.height=document.getElementById("mmedia-uwQJraYRqOYWaofM").scrollWidth*0.76+"px";
+<style>.bbplayer{width: 100%; max-width: 850px; margin: auto}</style><div class="bbplayer"><iframe class="bbplayer" id="mmedia-TqANFjgEYrKoEHII" src="https://player.bilibili.com/player.html?bvid=BV15f4y167sa&page=1&high_quality=1&danmaku=true" allowfullscreen="allowfullscreen" scrolling="no" border="0" frameborder="0" framespacing="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups"></iframe></div><script> document.getElementById("mmedia-TqANFjgEYrKoEHII").style.height=document.getElementById("mmedia-TqANFjgEYrKoEHII").scrollWidth*0.76+"px";
     window.onresize = function(){
-      document.getElementById("mmedia-uwQJraYRqOYWaofM").style.height=document.getElementById("mmedia-uwQJraYRqOYWaofM").scrollWidth*0.76+"px";
+      document.getElementById("mmedia-TqANFjgEYrKoEHII").style.height=document.getElementById("mmedia-TqANFjgEYrKoEHII").scrollWidth*0.76+"px";
     }; </script>
 <h3 id="油管">油管</h3>
 <div class="video-container"><iframe src="https://www.youtube.com/embed/URG6YnTPcac" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
