@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>资源文件夹</title>
-    <url>/2021/08/22/23-10-47/</url>
-    <content><![CDATA[<h2 id="本文用于测试资源文件夹功能是否正常">本文用于测试资源文件夹功能是否正常</h2>
-<img src="/2021/08/22/23-10-47/1.jpg" class>
-<span id="more"></span>
-<h3 id="相对引用">相对引用</h3>
-<p><img src="/2021/08/22/23-10-47/1.jpg" alt="test"> <img src="/backgrounds/3.jpg" alt="test"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.js"></script><div id="mmedia-PtjHEklBvafSCDQV"></div><script> var PtjHEklBvafSCDQV_options = JSON.parse('{\"lrcType\":3,\"audio\":[{\"name\":\"夏天的风\",\"artist\":\"鹿乃\",\"url\":\"鹿乃 (かの) - 夏天的风.mp3\",\"cover\":\"1.jpg\",\"lrc\":\"鹿乃 (かの) - 夏天的风.lrc\"}]}'); PtjHEklBvafSCDQV_options.container = document.getElementById("mmedia-PtjHEklBvafSCDQV"); const ap_PtjHEklBvafSCDQV = new APlayer(PtjHEklBvafSCDQV_options); </script></p>
-]]></content>
-  </entry>
-  <entry>
     <title>置顶&amp;摘要功能测试</title>
     <url>/2021/08/14/19-16-31/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>. <span id="more"></span></p>
@@ -38,28 +28,16 @@
       </tags>
   </entry>
   <entry>
-    <title>多媒体功能测试</title>
-    <url>/2021/08/19/00-03-47/</url>
-    <content><![CDATA[<h2 id="本文用于测试多媒体功能">本文用于测试多媒体功能</h2>
+    <title>鹿乃录播资源（测试）</title>
+    <url>/2021/08/31/13-36-08/</url>
+    <content><![CDATA[<h2 id="鹿乃录播百度云下载">鹿乃录播百度云下载</h2>
+<img src="/2021/08/31/13-36-08/fm.png" class>
 <span id="more"></span>
-<h2 id="图片插入测试">图片插入测试</h2>
-<p><img src="https://cdn.jsdelivr.net/gh/kanomahoro/images@main/1.jpg"></p>
-<h2 id="音乐播放测试">音乐播放测试</h2>
-<h2 id="onedrive">onedrive</h2>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.js"></script><div id="mmedia-DZNBtrkuKnEGEnpy"></div><script> var DZNBtrkuKnEGEnpy_options = JSON.parse('{\"lrcType\":3,\"audio\":[{\"name\":\"夏天的风\",\"artist\":\"鹿乃(かの)\",\"url\":\"https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaWZDekl5bUhxQVhpekJnRDR2UFVtNDNheTktP2U9dEZGMTVu.mp3\",\"cover\":\"https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaWZDekl5bUhxQVhpeTR5Vnl1VFQxNkVOQnB1P2U9OHdSenRm.jpg\",\"lrc\":\"https://cdn.jsdelivr.net/gh/kanomahoro/images@main/1.lrc\"}]}'); DZNBtrkuKnEGEnpy_options.container = document.getElementById("mmedia-DZNBtrkuKnEGEnpy"); const ap_DZNBtrkuKnEGEnpy = new APlayer(DZNBtrkuKnEGEnpy_options); </script>
-<h2 id="qq音乐">QQ音乐</h2>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.js"></script><script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script><meting-js metin="meting" auto="https://y.qq.com/n/yqq/song/003quxgz0qhoCZ.html" autopla="autoplay"></meting-js>
-<h2 id="视频播放测试">视频播放测试</h2>
-<h2 id="onedrive-1">onedrive</h2>
-<script src="https://cdn.jsdelivr.net/npm/dplayer@1/dist/DPlayer.min.js"></script><div id="mmedia-swOGwBWwtDSCjxdX"></div><script> var swOGwBWwtDSCjxdX_options = JSON.parse('{\"video\":{\"url\":\"https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBaWZDekl5bUhxQVhpekc0d1JBUXVWdTFMV0h1P2U9WDVmUHlm.mp4\",\"pic\":\"https://cdn.jsdelivr.net/gh/kanomahoro/images@main/pic.png\"}}'); swOGwBWwtDSCjxdX_options.container = document.getElementById("mmedia-swOGwBWwtDSCjxdX"); const dp_swOGwBWwtDSCjxdX = new DPlayer(swOGwBWwtDSCjxdX_options); </script>
-<h3 id="b站">B站</h3>
-<style>.bbplayer{width: 100%; max-width: 850px; margin: auto}</style><div class="bbplayer"><iframe class="bbplayer" id="mmedia-sZUfIAyIEyRYfkVO" src="https://player.bilibili.com/player.html?bvid=BV15f4y167sa&page=1&high_quality=1&danmaku=true" allowfullscreen="allowfullscreen" scrolling="no" border="0" frameborder="0" framespacing="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups"></iframe></div><script> document.getElementById("mmedia-sZUfIAyIEyRYfkVO").style.height=document.getElementById("mmedia-sZUfIAyIEyRYfkVO").scrollWidth*0.76+"px";
-    window.onresize = function(){
-      document.getElementById("mmedia-sZUfIAyIEyRYfkVO").style.height=document.getElementById("mmedia-sZUfIAyIEyRYfkVO").scrollWidth*0.76+"px";
-    }; </script>
-<h3 id="油管">油管</h3>
-<div class="video-container"><iframe src="https://www.youtube.com/embed/URG6YnTPcac" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
+<p>7月28日联动录播（生肉） https://pan.baidu.com/s/1KZJkyUU2fXWsFJUwkCthxQ 提取码 tsfz</p>
 ]]></content>
+      <tags>
+        <tag>资源分享，鹿乃</tag>
+      </tags>
   </entry>
   <entry>
     <title>测试用自我介绍</title>
@@ -78,6 +56,40 @@
       <tags>
         <tag>test1</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>资源文件夹</title>
+    <url>/2021/08/22/23-10-47/</url>
+    <content><![CDATA[<h2 id="本文用于测试资源文件夹功能是否正常">本文用于测试资源文件夹功能是否正常</h2>
+<img src="/2021/08/22/23-10-47/1.jpg" class>
+<span id="more"></span>
+<h3 id="相对引用">相对引用</h3>
+<p><img src="/2021/08/22/23-10-47/1.jpg" alt="test"> <img src="/backgrounds/3.jpg" alt="test"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.js"></script><div id="mmedia-pMmtzgZHHtjrAotI"></div><script> var pMmtzgZHHtjrAotI_options = JSON.parse('{\"lrcType\":3,\"audio\":[{\"name\":\"夏天的风\",\"artist\":\"鹿乃\",\"url\":\"鹿乃 (かの) - 夏天的风.mp3\",\"cover\":\"1.jpg\",\"lrc\":\"鹿乃 (かの) - 夏天的风.lrc\"}]}'); pMmtzgZHHtjrAotI_options.container = document.getElementById("mmedia-pMmtzgZHHtjrAotI"); const ap_pMmtzgZHHtjrAotI = new APlayer(pMmtzgZHHtjrAotI_options); </script></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>多媒体功能测试</title>
+    <url>/2021/08/19/00-03-47/</url>
+    <content><![CDATA[<h2 id="本文用于测试多媒体功能">本文用于测试多媒体功能</h2>
+<span id="more"></span>
+<h2 id="图片插入测试">图片插入测试</h2>
+<p><img src="https://cdn.jsdelivr.net/gh/kanomahoro/images@main/1.jpg"></p>
+<h2 id="音乐播放测试">音乐播放测试</h2>
+<h2 id="onedrive">onedrive</h2>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.js"></script><div id="mmedia-asFyMUplYuuwhZSZ"></div><script> var asFyMUplYuuwhZSZ_options = JSON.parse('{\"lrcType\":3,\"audio\":[{\"name\":\"夏天的风\",\"artist\":\"鹿乃(かの)\",\"url\":\"https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaWZDekl5bUhxQVhpekJnRDR2UFVtNDNheTktP2U9dEZGMTVu.mp3\",\"cover\":\"https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaWZDekl5bUhxQVhpeTR5Vnl1VFQxNkVOQnB1P2U9OHdSenRm.jpg\",\"lrc\":\"https://cdn.jsdelivr.net/gh/kanomahoro/images@main/1.lrc\"}]}'); asFyMUplYuuwhZSZ_options.container = document.getElementById("mmedia-asFyMUplYuuwhZSZ"); const ap_asFyMUplYuuwhZSZ = new APlayer(asFyMUplYuuwhZSZ_options); </script>
+<h2 id="qq音乐">QQ音乐</h2>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.js"></script><script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script><meting-js metin="meting" auto="https://y.qq.com/n/yqq/song/003quxgz0qhoCZ.html" autopla="autoplay"></meting-js>
+<h2 id="视频播放测试">视频播放测试</h2>
+<h2 id="onedrive-1">onedrive</h2>
+<script src="https://cdn.jsdelivr.net/npm/dplayer@1/dist/DPlayer.min.js"></script><div id="mmedia-iwyoMVyIgCpyAhFW"></div><script> var iwyoMVyIgCpyAhFW_options = JSON.parse('{\"video\":{\"url\":\"https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBaWZDekl5bUhxQVhpekc0d1JBUXVWdTFMV0h1P2U9WDVmUHlm.mp4\",\"pic\":\"https://cdn.jsdelivr.net/gh/kanomahoro/images@main/pic.png\"}}'); iwyoMVyIgCpyAhFW_options.container = document.getElementById("mmedia-iwyoMVyIgCpyAhFW"); const dp_iwyoMVyIgCpyAhFW = new DPlayer(iwyoMVyIgCpyAhFW_options); </script>
+<h3 id="b站">B站</h3>
+<style>.bbplayer{width: 100%; max-width: 850px; margin: auto}</style><div class="bbplayer"><iframe class="bbplayer" id="mmedia-ygkwEzjAntSxPduT" src="https://player.bilibili.com/player.html?bvid=BV15f4y167sa&page=1&high_quality=1&danmaku=true" allowfullscreen="allowfullscreen" scrolling="no" border="0" frameborder="0" framespacing="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups"></iframe></div><script> document.getElementById("mmedia-ygkwEzjAntSxPduT").style.height=document.getElementById("mmedia-ygkwEzjAntSxPduT").scrollWidth*0.76+"px";
+    window.onresize = function(){
+      document.getElementById("mmedia-ygkwEzjAntSxPduT").style.height=document.getElementById("mmedia-ygkwEzjAntSxPduT").scrollWidth*0.76+"px";
+    }; </script>
+<h3 id="油管">油管</h3>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/URG6YnTPcac" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
+]]></content>
   </entry>
   <entry>
     <title>数学公式编辑功能测试</title>
