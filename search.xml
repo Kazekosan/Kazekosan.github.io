@@ -1,31 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>资源文件夹</title>
-    <url>/2021/08/22/23-10-47/</url>
-    <content><![CDATA[<h2 id="本文用于测试资源文件夹功能是否正常"><a href="#本文用于测试资源文件夹功能是否正常" class="headerlink" title="本文用于测试资源文件夹功能是否正常"></a>本文用于测试资源文件夹功能是否正常</h2><img src="/2021/08/22/23-10-47/1.jpg" class>
-<span id="more"></span>
-<h3 id="相对引用"><a href="#相对引用" class="headerlink" title="相对引用"></a>相对引用</h3><p><img src="/2021/08/22/23-10-47/1.jpg" alt="test"><br><img src="/backgrounds/3.jpg" alt="test"></p>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.js"></script><div id="mmedia-ZwvgJNjphcQsPaAi"></div><script> var ZwvgJNjphcQsPaAi_options = JSON.parse('{\"lrcType\":3,\"audio\":[{\"name\":\"夏天的风\",\"artist\":\"鹿乃\",\"url\":\"鹿乃 (かの) - 夏天的风.mp3\",\"cover\":\"1.jpg\",\"lrc\":\"鹿乃 (かの) - 夏天的风.lrc\"}]}'); ZwvgJNjphcQsPaAi_options.container = document.getElementById("mmedia-ZwvgJNjphcQsPaAi"); const ap_ZwvgJNjphcQsPaAi = new APlayer(ZwvgJNjphcQsPaAi_options); </script>
-]]></content>
-  </entry>
-  <entry>
     <title>置顶&amp;摘要功能测试</title>
     <url>/2021/08/14/19-16-31/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<span id="more"></span>
-
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>. <span id="more"></span></p>
+<h2 id="quick-start">Quick Start</h2>
+<h3 id="create-a-new-post">Create a new post</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
+<h3 id="run-server">Run server</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
+<h3 id="generate-static-files">Generate static files</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
+<h3 id="deploy-to-remote-sites">Deploy to remote sites</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
       <categories>
@@ -38,51 +28,31 @@
       </tags>
   </entry>
   <entry>
-    <title>数学公式编辑功能测试</title>
-    <url>/2021/08/15/19-16-31/</url>
-    <content><![CDATA[<h2 id="本文用于测试数学公式功能"><a href="#本文用于测试数学公式功能" class="headerlink" title="本文用于测试数学公式功能"></a>本文用于测试数学公式功能</h2><span id="more"></span>
-<p>$$<br>sin(\omega t)=\frac{1}{2j}(e^{j\omega t}-e^{-j\omega t})<br>$$<br>$$\begin{equation} \label{eq1}<br>e=mc^2<br>\end{equation}$$</p>
+    <title>鹿乃录播资源</title>
+    <url>/2021/08/31/13-36-08/</url>
+    <content><![CDATA[<h2 id="鹿乃录播百度云下载">鹿乃录播百度云下载</h2>
+<img src="/2021/08/31/13-36-08/fm.png" class>
+<span id="more"></span>
+<p>7月28日联动录播（生肉） https://pan.baidu.com/s/1KZJkyUU2fXWsFJUwkCthxQ 提取码 tsfz <img src="/2021/08/31/13-36-08/8%E6%9C%8827%E6%97%A5.png" class> <!-- more --> 7月27日直播歌曲flac https://pan.baidu.com/s/1xBajaen6CdNsrLx7fAs4oQ 提取码：tsfz</p>
 ]]></content>
       <categories>
-        <category>测试1</category>
-        <category>测试2</category>
+        <category>鹿乃</category>
       </categories>
       <tags>
-        <tag>测试1</tag>
-        <tag>测试2</tag>
+        <tag>鹿乃</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>多媒体功能测试</title>
-    <url>/2021/08/19/00-03-47/</url>
-    <content><![CDATA[<h2 id="本文用于测试多媒体功能"><a href="#本文用于测试多媒体功能" class="headerlink" title="本文用于测试多媒体功能"></a>本文用于测试多媒体功能</h2><span id="more"></span>
-<h2 id="图片插入测试"><a href="#图片插入测试" class="headerlink" title="图片插入测试"></a>图片插入测试</h2><img src="https://cdn.jsdelivr.net/gh/kanomahoro/images@main/1.jpg">
-
-<h2 id="音乐播放测试"><a href="#音乐播放测试" class="headerlink" title="音乐播放测试"></a>音乐播放测试</h2><h2 id="onedrive"><a href="#onedrive" class="headerlink" title="onedrive"></a>onedrive</h2><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.js"></script><div id="mmedia-nvLzxrnshhUoURgX"></div><script> var nvLzxrnshhUoURgX_options = JSON.parse('{\"lrcType\":3,\"audio\":[{\"name\":\"夏天的风\",\"artist\":\"鹿乃(かの)\",\"url\":\"https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaWZDekl5bUhxQVhpekJnRDR2UFVtNDNheTktP2U9dEZGMTVu.mp3\",\"cover\":\"https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaWZDekl5bUhxQVhpeTR5Vnl1VFQxNkVOQnB1P2U9OHdSenRm.jpg\",\"lrc\":\"https://cdn.jsdelivr.net/gh/kanomahoro/images@main/1.lrc\"}]}'); nvLzxrnshhUoURgX_options.container = document.getElementById("mmedia-nvLzxrnshhUoURgX"); const ap_nvLzxrnshhUoURgX = new APlayer(nvLzxrnshhUoURgX_options); </script>
-
-<h2 id="QQ音乐"><a href="#QQ音乐" class="headerlink" title="QQ音乐"></a>QQ音乐</h2><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.js"></script><script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script><meting-js metin="meting" auto="https://y.qq.com/n/yqq/song/003quxgz0qhoCZ.html" autopla="autoplay"></meting-js>
-
-<h2 id="视频播放测试"><a href="#视频播放测试" class="headerlink" title="视频播放测试"></a>视频播放测试</h2><h2 id="onedrive-1"><a href="#onedrive-1" class="headerlink" title="onedrive"></a>onedrive</h2><script src="https://cdn.jsdelivr.net/npm/dplayer@1/dist/DPlayer.min.js"></script><div id="mmedia-pnjIwdmhsUIliGft"></div><script> var pnjIwdmhsUIliGft_options = JSON.parse('{\"video\":{\"url\":\"https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBaWZDekl5bUhxQVhpekc0d1JBUXVWdTFMV0h1P2U9WDVmUHlm.mp4\",\"pic\":\"https://cdn.jsdelivr.net/gh/kanomahoro/images@main/pic.png\"}}'); pnjIwdmhsUIliGft_options.container = document.getElementById("mmedia-pnjIwdmhsUIliGft"); const dp_pnjIwdmhsUIliGft = new DPlayer(pnjIwdmhsUIliGft_options); </script>
-
-<h3 id="B站"><a href="#B站" class="headerlink" title="B站"></a>B站</h3><style>.bbplayer{width: 100%; max-width: 850px; margin: auto}</style><div class="bbplayer"><iframe class="bbplayer" id="mmedia-fAZNOyMjQVtDVEiR" src="https://player.bilibili.com/player.html?bvid=BV15f4y167sa&page=1&high_quality=1&danmaku=true" allowfullscreen="allowfullscreen" scrolling="no" border="0" frameborder="0" framespacing="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups"></iframe></div><script> document.getElementById("mmedia-fAZNOyMjQVtDVEiR").style.height=document.getElementById("mmedia-fAZNOyMjQVtDVEiR").scrollWidth*0.76+"px";
-    window.onresize = function(){
-      document.getElementById("mmedia-fAZNOyMjQVtDVEiR").style.height=document.getElementById("mmedia-fAZNOyMjQVtDVEiR").scrollWidth*0.76+"px";
-    }; </script>
-
-<h3 id="油管"><a href="#油管" class="headerlink" title="油管"></a>油管</h3><div class="video-container"><iframe src="https://www.youtube.com/embed/URG6YnTPcac" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
-
-]]></content>
   </entry>
   <entry>
     <title>测试用自我介绍</title>
     <url>/2021/08/31/12-50-25/</url>
-    <content><![CDATA[<h2 id="自我介绍"><a href="#自我介绍" class="headerlink" title="自我介绍"></a>自我介绍</h2><span id="more"></span>
-<p>不知道咋自我介绍之类的，就简单说一下。<br>B站名字是糖苏の風，你可以叫我糖苏或者风子，糖苏这个id从初中用到现在，基本我现实的朋友都会叫我糖苏。风子是后来打r6用的名字（r6没有中文id就随便取了个kazeko）我的常用游戏id结合在一起就是糖苏の風，糖苏的风子，含义就是我就是我就这样。</p>
+    <content><![CDATA[<h2 id="自我介绍">自我介绍</h2>
+<span id="more"></span>
+<p>不知道咋自我介绍之类的，就简单说一下。 B站名字是糖苏の風，你可以叫我糖苏或者风子，糖苏这个id从初中用到现在，基本我现实的朋友都会叫我糖苏。风子是后来打r6用的名字（r6没有中文id就随便取了个kazeko）我的常用游戏id结合在一起就是糖苏の風，糖苏的风子，含义就是我就是我就这样。</p>
 <p>没有啥特别优秀的东西，更新的视频基本上是和朋友一起玩游戏的片段（说四川话是现实朋友，普通话是网友）。偶尔会更新单机游戏的实况之类的（要遇得到好玩的和口袋里的钱够买，毕竟在校大学牲）。老光环玩家。</p>
 <p>没啥特别的爱好，平时就听听歌，打打game，学点有用的东西。是运动废柴（做了个小手术后就基本不想运动了体力差劲）。是小鹿包，鹿乃单推人（5年以上）。steam id：一般路过小鹿包</p>
 <p>偶尔会直播打游戏之类的，基本是联机游戏和朋友玩，但还是会有单机游戏直播（可能很少）。直播一般会挂个皮套（免费可商用那种，咱也没钱约）或着風子的头像（好孩子不要去搜这个头像的出处。）游戏技术很菜，闲的无聊可以来看我下饭。</p>
-<p>基本就这些吧？？？<br>感谢你的关注（能关注我这种没啥技术力的人，真的很感谢）<br>end~~~</p>
-<img src="/2021/08/31/12-50-25/xdd.jpg" class title="头像">]]></content>
+<p>基本就这些吧？？？ 感谢你的关注（能关注我这种没啥技术力的人，真的很感谢） end~~~ <img src="/2021/08/31/12-50-25/xdd.jpg" class title="头像"></p>
+]]></content>
       <categories>
         <category>test1</category>
       </categories>
@@ -91,20 +61,57 @@
       </tags>
   </entry>
   <entry>
-    <title>鹿乃录播资源</title>
-    <url>/2021/08/31/13-36-08/</url>
-    <content><![CDATA[<h2 id="鹿乃录播百度云下载"><a href="#鹿乃录播百度云下载" class="headerlink" title="鹿乃录播百度云下载"></a>鹿乃录播百度云下载</h2><img src="/2021/08/31/13-36-08/fm.png" class>
+    <title>资源文件夹</title>
+    <url>/2021/08/22/23-10-47/</url>
+    <content><![CDATA[<h2 id="本文用于测试资源文件夹功能是否正常">本文用于测试资源文件夹功能是否正常</h2>
+<img src="/2021/08/22/23-10-47/1.jpg" class>
 <span id="more"></span>
-<p>7月28日联动录播（生肉）<br><a href="https://pan.baidu.com/s/1KZJkyUU2fXWsFJUwkCthxQ">https://pan.baidu.com/s/1KZJkyUU2fXWsFJUwkCthxQ</a><br>提取码 tsfz</p>
-<img src="/2021/08/31/13-36-08/8%E6%9C%8827%E6%97%A5.png" class>
-<!-- more -->
-<p>7月27日直播歌曲flac<br><a href="https://pan.baidu.com/s/1xBajaen6CdNsrLx7fAs4oQ">https://pan.baidu.com/s/1xBajaen6CdNsrLx7fAs4oQ</a><br>提取码：tsfz </p>
+<h3 id="相对引用">相对引用</h3>
+<p><img src="/2021/08/22/23-10-47/1.jpg" alt="test"> <img src="/backgrounds/3.jpg" alt="test"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.js"></script><div id="mmedia-MXJwuzAKlqKBgaGL"></div><script> var MXJwuzAKlqKBgaGL_options = JSON.parse('{\"lrcType\":3,\"audio\":[{\"name\":\"夏天的风\",\"artist\":\"鹿乃\",\"url\":\"鹿乃 (かの) - 夏天的风.mp3\",\"cover\":\"1.jpg\",\"lrc\":\"鹿乃 (かの) - 夏天的风.lrc\"}]}'); MXJwuzAKlqKBgaGL_options.container = document.getElementById("mmedia-MXJwuzAKlqKBgaGL"); const ap_MXJwuzAKlqKBgaGL = new APlayer(MXJwuzAKlqKBgaGL_options); </script></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>多媒体功能测试</title>
+    <url>/2021/08/19/00-03-47/</url>
+    <content><![CDATA[<h2 id="本文用于测试多媒体功能">本文用于测试多媒体功能</h2>
+<span id="more"></span>
+<h2 id="图片插入测试">图片插入测试</h2>
+<p><img src="https://cdn.jsdelivr.net/gh/kanomahoro/images@main/1.jpg"></p>
+<h2 id="音乐播放测试">音乐播放测试</h2>
+<h2 id="onedrive">onedrive</h2>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.js"></script><div id="mmedia-KUiKfdQHNSokGqtB"></div><script> var KUiKfdQHNSokGqtB_options = JSON.parse('{\"lrcType\":3,\"audio\":[{\"name\":\"夏天的风\",\"artist\":\"鹿乃(かの)\",\"url\":\"https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaWZDekl5bUhxQVhpekJnRDR2UFVtNDNheTktP2U9dEZGMTVu.mp3\",\"cover\":\"https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaWZDekl5bUhxQVhpeTR5Vnl1VFQxNkVOQnB1P2U9OHdSenRm.jpg\",\"lrc\":\"https://cdn.jsdelivr.net/gh/kanomahoro/images@main/1.lrc\"}]}'); KUiKfdQHNSokGqtB_options.container = document.getElementById("mmedia-KUiKfdQHNSokGqtB"); const ap_KUiKfdQHNSokGqtB = new APlayer(KUiKfdQHNSokGqtB_options); </script>
+<h2 id="qq音乐">QQ音乐</h2>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.js"></script><script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script><meting-js metin="meting" auto="https://y.qq.com/n/yqq/song/003quxgz0qhoCZ.html" autopla="autoplay"></meting-js>
+<h2 id="视频播放测试">视频播放测试</h2>
+<h2 id="onedrive-1">onedrive</h2>
+<script src="https://cdn.jsdelivr.net/npm/dplayer@1/dist/DPlayer.min.js"></script><div id="mmedia-YIPXSRNvcDUxMYLz"></div><script> var YIPXSRNvcDUxMYLz_options = JSON.parse('{\"video\":{\"url\":\"https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBaWZDekl5bUhxQVhpekc0d1JBUXVWdTFMV0h1P2U9WDVmUHlm.mp4\",\"pic\":\"https://cdn.jsdelivr.net/gh/kanomahoro/images@main/pic.png\"}}'); YIPXSRNvcDUxMYLz_options.container = document.getElementById("mmedia-YIPXSRNvcDUxMYLz"); const dp_YIPXSRNvcDUxMYLz = new DPlayer(YIPXSRNvcDUxMYLz_options); </script>
+<h3 id="b站">B站</h3>
+<style>.bbplayer{width: 100%; max-width: 850px; margin: auto}</style><div class="bbplayer"><iframe class="bbplayer" id="mmedia-dGmfnEINGHQPiydr" src="https://player.bilibili.com/player.html?bvid=BV15f4y167sa&page=1&high_quality=1&danmaku=true" allowfullscreen="allowfullscreen" scrolling="no" border="0" frameborder="0" framespacing="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups"></iframe></div><script> document.getElementById("mmedia-dGmfnEINGHQPiydr").style.height=document.getElementById("mmedia-dGmfnEINGHQPiydr").scrollWidth*0.76+"px";
+    window.onresize = function(){
+      document.getElementById("mmedia-dGmfnEINGHQPiydr").style.height=document.getElementById("mmedia-dGmfnEINGHQPiydr").scrollWidth*0.76+"px";
+    }; </script>
+<h3 id="油管">油管</h3>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/URG6YnTPcac" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
+]]></content>
+  </entry>
+  <entry>
+    <title>数学公式编辑功能测试</title>
+    <url>/2021/08/15/19-16-31/</url>
+    <content><![CDATA[<h2 id="本文用于测试数学公式功能">本文用于测试数学公式功能</h2>
+<span id="more"></span>
+<p><span class="math display">\[
+sin(\omega t)=\frac{1}{2j}(e^{j\omega t}-e^{-j\omega t})
+\]</span> <span class="math display">\[\begin{equation} \label{eq1}
+e=mc^2
+\end{equation}\]</span></p>
 ]]></content>
       <categories>
-        <category>鹿乃</category>
+        <category>测试1</category>
+        <category>测试2</category>
       </categories>
       <tags>
-        <tag>鹿乃</tag>
+        <tag>测试1</tag>
+        <tag>测试2</tag>
       </tags>
   </entry>
 </search>
